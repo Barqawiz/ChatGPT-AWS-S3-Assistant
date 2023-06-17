@@ -2,6 +2,8 @@
 
 This repository contains a ChatGPT-based implementation for AWS S3 tasks using the functions feature. The chatbot allows you to perform various operations on your S3 buckets through a conversation-driven approach withou complex code. By using OpenAI's function calling capabilities, the chatbot intelligently identifies and executes S3 actions.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Barqawiz/ChatGPT-AWS-S3-Assistant/blob/main/openai%20functions%20-%20s3%20bucket%20automation.ipynb)
+
 ## Features:
 - List S3 buckets
 - List objects within a bucket
