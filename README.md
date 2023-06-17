@@ -20,3 +20,13 @@ Install the requirements:
 ```
 pip install -r requirements.txt
 ```
+
+## Run:
+```
+jupyter notebook
+```
+
+## License:
+MIT License
+
+Copyright (c) 2023 Albarqawi
