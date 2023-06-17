@@ -1,0 +1,4 @@
+openai==0.27.8
+boto3==1.26.155
+tenacity==8.2.2
+python-dotenv==1.0.0
